@@ -23,7 +23,7 @@
       - app.js (file)
       - constants.js (file)
       - index.js (file)
-4.  create files:
+4.  In the root folder create files:
     - .gitignore (the sensetive files which will be excluded from git push)
     - google git ignore generator and enter node as eniviroment. It will give us all the things to put into the .gitignore file
 5.  create an enviroment variable file: .env
