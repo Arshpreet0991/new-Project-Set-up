@@ -53,4 +53,8 @@
 ```
 
 8.  in package.json, add:
+
     - "type": "module"
+
+9.  Install dotenv: to access variables from .env files.
+10. Install express. npm i express
